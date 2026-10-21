@@ -23,8 +23,12 @@ và cách dùng giống ứng dụng **Stickies** của Apple.
 
 ## Install / Cài đặt
 
-1. Download `StickyNote-<version>.dmg` from the
-   [Releases](https://github.com/impadx73/sticky-note/releases) page.
+1. Download the DMG:
+   - latest build from `main`:
+     **[StickyNote-latest.dmg](https://github.com/impadx73/sticky-note/raw/dist/StickyNote-latest.dmg)**
+     (every build is kept on the [`dist` branch](https://github.com/impadx73/sticky-note/tree/dist)), or
+   - a versioned `StickyNote-<version>.dmg` from the
+     [Releases](https://github.com/impadx73/sticky-note/releases) page.
 2. Open the DMG and drag **Sticky Note** into **Applications**.
 3. The app is signed ad‑hoc (not notarised with Apple), so the first launch is
    blocked by Gatekeeper. Either:
